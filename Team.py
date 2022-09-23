@@ -193,15 +193,15 @@ def printBoard(board):
 
 def checkwin(board):
     # check for a win
-    if(board[4] == board[0] == board[8]
-    or board[4] == board[2] == board[6]
-    or board[4] == board[1] == board[7]
-    or board[4] == board[3] == board[5]
-    or board[0] == board[1] == board[2]
-    or board[6] == board[7] == board[8]
-    or board[0] == board[3] == board[6]
-    or board[2] == board[5] == board[8]):
-       print ("You win!")
+    if ((board[4] == board[0] == board[8]) and board[4] != " "
+    or (board[4] == board[2] == board[6]) and board[4] != " "
+    or (board[4] == board[1] == board[7]) and board[4] != " "
+    or (board[4] == board[3] == board[5]) and board[4] != " "
+    or (board[0] == board[1] == board[2]) and board[0] != " "
+    or (board[6] == board[7] == board[8]) and board[6] != " "
+    or (board[0] == board[3] == board[6]) and board[0] != " "
+    or (board[2] == board[5] == board[8])):
+       print("You win!")
     
     
     
