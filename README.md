@@ -10,7 +10,10 @@
 
 ## Addition 1
 
-- Feature to be added!
+- Rock Paper Scissor, one of the best decision making games of all time!!
+- You pick rock, paper, or  sissors and the computer also chooses randomly 
+- rock beats scissors , paper beats rock , and scissors beats paper
+- depending on your choice of selection at the star of the round, you win or lose according to the game rules!
 
 ## Addition 2
 
