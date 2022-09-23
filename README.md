@@ -16,11 +16,18 @@
 
 - Feature to be added!
 
-## Addition 3
+## Simple Tic Tac Toe
 
-- Feature to be added!
+Choose between Human or Computer players.
+
+Each turn the player gets to place a piece on the board
+
+The Computer randomly puts pieces along the board.
+
+Once a victor is chosen the game tells you that a player has won!
+
+![alt text](https://i.imgur.com/r3zIhOo.png)
 
 ## Addition 4
 
 - Feature to be added!
-
